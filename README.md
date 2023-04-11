@@ -62,7 +62,8 @@ N. In this last query, we will churn out which is the most sold model in each pr
 
 ////////////////////////////////
 The CSV data file is attached in the repository.
-One can get te same data online through the link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
+
+One can get the same data online through the link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 The SQL file contains the code/query to carry out above tasks.
 Everyone is kindly requested to share their feedbacks on the project with me. 
 Thank you
