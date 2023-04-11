@@ -58,8 +58,11 @@ N. In this last query, we will churn out which is the most sold model in each pr
 11. Madrid of Spain had made the maximum sale amongst all the cities around all other countries.
 12. Trains are the least ordered item and Classic cars are the most ordered item based on the data.
 13. S18_3232 a model of Classic Cars is the most sold product around all the orders.
+
+
 ////////////////////////////////
-The CSV file is attached in the repository.
+The CSV data file is attached in the repository.
+One can get te same data online through the link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 The SQL file contains the code/query to carry out above tasks.
 Everyone is kindly requested to share their feedbacks on the project with me. 
 Thank you
