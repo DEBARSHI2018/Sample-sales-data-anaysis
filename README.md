@@ -61,6 +61,8 @@ N. In this last query, we will churn out which is the most sold model in each pr
 
 
 ////////////////////////////////
+
+
 The CSV data file is attached in the repository.
 
 One can get the same data online through the link: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
