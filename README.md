@@ -1,5 +1,5 @@
 # Sample-sales-data-anaysis 
-_Analysis on SQL using Microsoft SQL Server 18_
+_Analysis in SQL using Microsoft SQL Server 18_
 
 
 In this project, I aimed to analyze the sample sales data using SQL to find meaningful statements that would throw some light regarding the characteristics of the dataset.
